@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(to bottom, white, #75C5ED) ;
+}
+#nbr
+{
+    color: #75C5ED;
+}
+h2
+{
+    color: #75C5ED;
+}
+.fin h1
+{
+color: #75C5ED;
+}
+#b2
+{
+    background-color: #75C5ED;
+    color: white;
+}
+#fi
+{
+    background-color: #75C5ED;
+    color: white;
+}
+#principale2
+{
+    background-color: white;
+}
+#sp2
+{
+    color: #75C5ED;
+}
+#cadre2
+{
+    color: white;
+    background-color: #75C5ED;
+}
